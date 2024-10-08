@@ -9,4 +9,4 @@
 
 -- 📫 How to reach me: 24-7 via email
 
--- ⚡ Fun fact: I am on the run but I don' t know where I am going
+-- ⚡ Fun fact: I am on the run but I don' t know where I 'm going
