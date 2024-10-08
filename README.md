@@ -1,4 +1,7 @@
 ## About me 👋
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="rafale.jpg">
+</picture>
 
 -- 🔭 I’m currently working on self improving
 
